@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudentManagementSystemMVCEF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5757cfe05c9e44dfdd031fe99609fada7fe585c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25c0e55cea4541582e91a1c9a69f6b3ef672d1d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudentManagementSystemMVCEF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudentManagementSystemMVCEF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
